@@ -1,0 +1,16 @@
+{
+    "name": "程序猿FAKE",
+    "description": "虚拟姓名/手机号/身份证/银行卡信息",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "browser_action": {
+        "default_title": "eddy的插件",
+        "default_icon": "icons/icon128.png",
+        "default_popup": "index.html"
+    }
+}
